@@ -9,7 +9,7 @@
 [Acceder a la carpeta del proyecto](https://drive.google.com/drive/u/0/folders/1fxrwIPqJuTCsrSGDcdWnkb474ZiZB87E)
 
 ### Equipo 7:
-Clara Ibazabal, Pablo Konig, Jesus Zavaleta, Isaac Covrrubias, Fernando Ontiveros.
+Clara Ibarzabal, Pablo Konig, Jesus Zavaleta, Isaac Covrrubias, Fernando Ontiveros.
 
 ### Descripción:
 
