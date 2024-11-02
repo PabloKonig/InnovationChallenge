@@ -12,7 +12,6 @@ El sistema proporciona recomendaciones automatizadas sobre el uso de fertilizant
 
 En resumen, este proyecto no solo busca mejorar la eficiencia agrícola, sino también contribuir a prácticas sostenibles en la gestión de recursos.
 
-
 # Nota de Transparencia
 
 El asistente de decisión agronómica tiene como objetivo proporcionar recomendaciones en tiempo real para la gestión de cultivos, utilizando datos de sensores IoT en combinación con algoritmos de inteligencia artificial para optimizar el riego y la fertilización en función de las condiciones específicas de clima y suelo. Este proyecto se adhiere a los principios de IA Responsable de Microsoft para garantizar un uso ético, seguro y confiable de la tecnología.
